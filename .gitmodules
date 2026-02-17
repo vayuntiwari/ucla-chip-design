@@ -1,0 +1,3 @@
+[submodule "pdk"]
+	path = pdk
+	url = https://github.com/mflowgen/freepdk-45nm
